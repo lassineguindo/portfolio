@@ -2,7 +2,7 @@
 
 Welcome to my GitHub portfolio! Here you'll find a collection of projects, assignments, and experiments that showcase my journey and skills in technology, coding, and digital equity initiatives.
 
-## About Me
+## About Me:
 
 I am Lassine Pierre Guindo, a passionate and motivated individual with a strong focus on technology and social impact. My background includes:
 
