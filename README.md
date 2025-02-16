@@ -8,7 +8,7 @@ I am Lassine Pierre Guindo, a passionate and motivated individual with a strong 
 
 - **Education**: Proficient in programming, data analysis, and network security.
 - **Interests**: Quantum computing, environmental sustainability, digital equity, and creative coding projects.
-- **Hobbies**: Gaming (Call of Duty and more), working with Blender for 3D design, and exploring new technologies.
+- **Hobbies**: Gaming (Call of Duty and more), working with Blender for 2D/3D design, and exploring new technologies.
 
 Find me on LinkedIn: [Lassine Pierre Guindo](https://www.linkedin.com/in/lassine-pierre-guindo-541a70239/)
 
