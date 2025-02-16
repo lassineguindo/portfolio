@@ -15,12 +15,12 @@ Find me on LinkedIn: [Lassine Pierre Guindo](https://www.linkedin.com/in/lassine
 ## Skills
 
 -
-- 🖥️ **Programming Languages:** Python, JavaScript  
-- 📊 **Data Visualization:** Google Looker Studio, basic SQL  
-- 🔒 **Cybersecurity:** Wireshark, Snort, John the Ripper  
-- 🎨 **Creative Tools:** Blender, Canon printer setup  
-- 🛠️ **Technical Support:** Providing phone and in-person tech support  
-- 🧠 **Other Skills:** Logical problem-solving, file interaction, subprocess management  
+- **Programming Languages:** Python, JavaScript  
+- **Data Visualization:** Google Looker Studio, basic SQL  
+- **Cybersecurity:** Wireshark, Snort, John the Ripper  
+- **Creative Tools:** Blender, Canon printer setup  
+- **Technical Support:** Providing phone and in-person tech support  
+- **Other Skills:** Logical problem-solving, file interaction, subprocess management  
 
 ## Featured Projects
 
